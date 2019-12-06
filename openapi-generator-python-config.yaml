@@ -1,0 +1,8 @@
+packageName: "openapi_client"
+projectName: "defectdojo-api-v2-client"
+packageVersion: "0.0.1"
+# packageUrl":
+sortParamsByRequiredFlag: "true"
+hideGenerationTimestamp: "true"
+generateSourceCodeOnly: "false"
+library: "urllib3"
